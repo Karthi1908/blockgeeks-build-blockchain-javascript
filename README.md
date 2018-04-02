@@ -1,3 +1,4 @@
+#updated code for HODL platform
 # Blockgeeks: Build Your Own Blockchain with JavaScript
 Code that shows how to build your own Bitcoin-alike blockchain with JavaScript.
 
